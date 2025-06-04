@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-04T15:39:43 ART" name="Default suite" finished-at="2025-06-04T15:40:10 ART" duration-ms="27218">
+    <groups>
+    </groups>
+    <test started-at="2025-06-04T15:39:43 ART" name="Default test" finished-at="2025-06-04T15:40:10 ART" duration-ms="27218">
+      <class name="recruitment.Open_menu">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:recruitment.Open_menu@4a5905d9]" started-at="2025-06-04T15:39:43 ART" name="setup" finished-at="2025-06-04T15:39:47 ART" duration-ms="3776" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://opensource-demo.orangehrmlive.com/web/index.php/auth/login]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="add_vancacy(java.lang.String)[pri:0, instance:recruitment.Open_menu@4a5905d9]" started-at="2025-06-04T15:39:47 ART" name="add_vancacy" data-provider="job_titles" finished-at="2025-06-04T15:40:10 ART" duration-ms="22335" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Database Administrator]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_vancacy -->
+        <test-method is-config="true" signature="close_browser()[pri:0, instance:recruitment.Open_menu@4a5905d9]" started-at="2025-06-04T15:40:10 ART" name="close_browser" finished-at="2025-06-04T15:40:10 ART" duration-ms="156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_browser -->
+      </class> <!-- recruitment.Open_menu -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

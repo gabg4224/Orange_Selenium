@@ -1,0 +1,9 @@
+/target/
+/.idea/
+/.classpath
+/.project
+*.log
+*.iml
+*.class
+/allure-results/
+/allure-report/
