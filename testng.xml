@@ -6,7 +6,7 @@
 			value="https://opensource-demo.orangehrmlive.com/web/index.php/auth/login"></parameter>
 		<classes>
 
-			
+				<class name="login.Test_login_page" />
 		</classes>
 	</test> <!--
 	Test -->
