@@ -39,7 +39,7 @@ public class Base_page {
 		locator.sendKeys(value);
 		;
 		System.out.println("bug fix");
-		System.out.println("conflict resolution");
+		System.out.println("conflict resolution feature");
 
 	}
 
