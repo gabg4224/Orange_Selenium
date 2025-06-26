@@ -40,6 +40,15 @@ public class Base_page {
 		;
 		System.out.println("bug fix");
 
+
+		System.out.println("conflict resolution feature");
+
+		System.out.println("conflict resolution fix");
+
+		System.out.println("conflict resolution");
+
+
+
 	}
 
 	public void waitForElement(WebElement locator) {
