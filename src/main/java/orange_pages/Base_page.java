@@ -38,6 +38,7 @@ public class Base_page {
 		locator.clear();
 		locator.sendKeys(value);
 		;
+		System.out.println("bug fix");
 
 	}
 
